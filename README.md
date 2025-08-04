@@ -1,13 +1,5 @@
 <p align="center">
-  <img src="sanketh-github-banner.png" alt="Sanketh's GitHub Banner" />
-</p>
-<h1 align="center">Hi there! I'm Sanketh 👋</h1>
-<h3 align="center">🚀 Full Stack Java Developer | ☁️ AWS Certified | 🤖 Python & ML Integration Specialist</h3>
-
-<p align="center">
-  <a href="mailto:sankethfsd9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sanketh-fsd/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/AWS-Certified_Architect_Pro-orange?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
+  <img src="sanketh-github-facebanner.png" alt="Sanketh's GitHub Banner" />
 </p>
 
 ---

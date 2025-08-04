@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="sanketh-github-facebanner.png" alt="Sanketh's GitHub Banner" />
+</p>
 <h1 align="center">Hi there! I'm Sanketh 👋</h1>
 <h3 align="center">🚀 Full Stack Java Developer | ☁️ AWS Certified | 🤖 Python & ML Integration Specialist</h3>
 
@@ -67,6 +70,30 @@
 
 ---
 
+## 📁 Top Repositories
+
+| Project | Description |
+|--------|-------------|
+| 🔗 [springboot-python-ml-integration](https://github.com/Sankethsankuri/springboot-python-ml-integration) | Integration of a Python ML model with Spring Boot microservice using Kafka and REST |
+| 🔗 [react-springboot-microservice-ui](https://github.com/Sankethsankuri/react-springboot-microservice-ui) | Frontend SPA in React.js connected to Spring Boot microservices |
+| 🔗 [expense-tracker-backend](https://github.com/Sankethsankuri/expense-tracker-backend) | Expense Tracker Backend Services |
+| 🔗 [expense-tracker-frontend](https://github.com/Sankethsankuri/expense-tracker-frontend) | Expense Tracker Frontend |
+| 🔗 [movie-service](https://github.com/Sankethsankuri/movie-service) | Movie Services |
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sankethsankuri&show_icons=true&theme=tokyonight&hide_border=true" alt="Sanketh's GitHub Stats" />
+  <img  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Sankethsankuri&theme=tokyonight&hide_border=true" alt="Sanketh's GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankethsankuri&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
 ## 🧾 Work Experience Highlights
 
 ### 💼 Church of Jesus Christ of Latter-Day Saints (2023–Present)
@@ -89,15 +116,20 @@
 
 ## 📜 Certifications
 
-- 🏅 **AWS Certified Solutions Architect – Professional** (Aug 2023)  
+- 🏅 **AWS Certified Solutions Architect – Professional** (Aug 2023)
+Credential ID: AWS03849156
+Issued: August 2023 
+
 - 🤖 **Foundations of AI & ML for Java Developers** (Jul 2025)
+Credential ID: 11b24dbddca43f764590479ae4467ccc8630bf96bb7eeec0e10eac26c5c020e0
+Issued: July 2025
 
 ---
 
 ## 📫 Let's Connect!
 
 - 📧 **Email**: sankethfsd9@gmail.com  
-- 🌐 **LinkedIn**: [linkedin.com/in/sanketh-fsd](https://www.linkedin.com/in/sanketh-fsd/)  
+- 🌐 **LinkedIn**: [linkedin.com/in/sanketh-javafullstack-developer](http://linkedin.com/in/sanketh-javafullstack-developer)  
 - 💼 **Available for Freelance / Remote Roles / Contracts**
 
 ---
@@ -106,3 +138,6 @@
 
 > “Code. Deploy. Scale. Repeat. 🔁  
 > Transforming business logic into seamless digital experiences!” 🚀
+
+---
+

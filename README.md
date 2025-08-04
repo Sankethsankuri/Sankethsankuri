@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="sanketh-github-facebanner.png" alt="Sanketh's GitHub Banner" />
+  <img src="sanketh-github-banner.png" alt="Sanketh's GitHub Banner" />
 </p>
 <h1 align="center">Hi there! I'm Sanketh 👋</h1>
 <h3 align="center">🚀 Full Stack Java Developer | ☁️ AWS Certified | 🤖 Python & ML Integration Specialist</h3>

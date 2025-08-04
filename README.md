@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="sanketh-github-facebanner.png" alt="Sanketh's GitHub Banner" />
+  <img src="sanketh-github-facebanner.png" width="1000" alt="Sanketh's GitHub Banner" />
 </p>
-
----
 
 ## 🧑‍💻 About Me
 

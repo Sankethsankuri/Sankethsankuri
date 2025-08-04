@@ -74,12 +74,16 @@
 
 ## 📊 GitHub Stats & Activity
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sankethsankuri&show_icons=true&theme=tokyonight&hide_border=true" alt="Sanketh's GitHub Stats" />
-  <img  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Sankethsankuri&theme=tokyonight&hide_border=true" alt="Sanketh's GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sankethsankuri&show_icons=true&theme=tokyonight&hide_border=true" alt="Sanketh's GitHub Stats" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankethsankuri&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sankethsankuri&theme=tokyonight&hide_border=true" alt="Sanketh's GitHub Streak" />
 </p>
 
 ---
